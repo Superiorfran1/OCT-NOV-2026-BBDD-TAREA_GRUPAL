@@ -1,0 +1,6 @@
+[submodule "Archivos-CSV"]
+	path = Archivos-CSV
+	url = https://github.com/maarcooslc/Archivos-CSV.git
+[submodule "Transformador-XML-XSL"]
+	path = Transformador-XML-XSL
+	url = https://github.com/MarioOcanaVilchez/Transformador-XML-XSL.git
